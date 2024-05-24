@@ -1,4 +1,6 @@
-package com.example.unittest;
+package com.example.unittest.session2;
+
+import com.example.unittest.Person;
 
 import java.util.List;
 
