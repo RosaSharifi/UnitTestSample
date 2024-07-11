@@ -64,5 +64,11 @@ public class FizzBuzz {
 
         return "";
     }
+
+    public String fizzBuzz3() {
+        for (int i = 1; i < 100; i++, System.out.println(i % 3 == 0 || i % 5 == 0 ? ((i % 3) == 0 ? "fizz" : "") + ((i % 5) == 0 ? "buzz" : "") : i));
+
+        return "";
+    }
     //end 3
 }
