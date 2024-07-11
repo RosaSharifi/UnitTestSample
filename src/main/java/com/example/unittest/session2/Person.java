@@ -1,4 +1,4 @@
-package com.example.unittest;
+package com.example.unittest.session2;
 
 public class Person {
     private String name;
